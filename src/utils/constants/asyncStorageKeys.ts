@@ -1,0 +1,1 @@
+export const CHARACTER_LIST_KEY = "CHARACTER_LIST";
